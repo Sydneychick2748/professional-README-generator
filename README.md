@@ -3,7 +3,7 @@
  
 ## Description
  
-To make a high-quality, professional README file generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions. This project is built in node.js and uses the npm package inquirer. The readme can be updated at any time  in the terminal, and by starting node index.js and answering a set of questions that will be promted in the comand-line.  The input that the user addes in the command-line will generate a professional README file.
+To make a high-quality, professional README file generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions. This project is built in node.js and uses the npm package inquirer. The readme can be updated at any time  in the terminal, and by starting node index.js and answering a set of questions that will be promoted in the command-line.  The input that the user added in the command-line will generate a professional README file.
 
 
  
