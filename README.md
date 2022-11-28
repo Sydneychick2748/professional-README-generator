@@ -27,14 +27,14 @@ To run the project, you must enter the terminal in the vs code and enter node in
 
 ## Usage
 
-When I am prompted for information about my application repository
+When I am prompted for information about my application repository  
 THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
 When I enter my project title
 THEN this is displayed as the title of the README
 When I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
 THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
 When I choose a license for my application from a list of options
-THEN a badge for that license is added near the top of the README, and a notice is added to the section of the README entitled License that explains which license the application is covered under
+THEN a badge for that license is added near the top of the README, and a notice is added to the section of the README entitled License that explains which license the application is covered under.If you do not want a License there is a unLicense option you can choose from as well.
 When I enter my GitHub username
 THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
 When I enter my email address
