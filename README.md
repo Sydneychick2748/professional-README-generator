@@ -14,7 +14,7 @@ To make a high-quality, professional README file generated with the title of my 
 - [Usage](#usage)
 - [Tests](#tests)
 - [License](#license)
-- [How to Contribute](#Contribute)
+- [Contribute](#Contribute)
 - [Questions](#questions)
  
  
@@ -41,19 +41,19 @@ When I enter my email address
 THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
 When I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
- Here is a video showing how the FREADME file is run :
+ Here is a video showing how the README file is run <iframe src="https://drive.google.com/file/d/1OyX6sbGAL6EggFfBS7S_O9i0YIA0xhdg/preview" width="640" height="480"></iframe>
  
 ## License
  
-Refer to the repo at https://github.com/Sydneychick2748/professional-README-generator for the license information
+Refer to the repo at: https://github.com/Sydneychick2748/professional-README-generator for the license information
  
-## How to Contribute
+## Contribute
  N/A
  
 ## Tests
  
-If you want to test out the project, you can go to my live site here :
+If you want to test out the project, you can go to my GitHub: https://github.com/Sydneychick2748/professional-README-generator
  
 ## Questions
-   If you have any questions, you can contact me at anabennett77@gmail.com 
+   If you have any questions, you can contact me at: anabennett77@gmail.com 
 
