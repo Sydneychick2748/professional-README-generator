@@ -45,7 +45,7 @@ THEN I am taken to the corresponding section of the README
  
 ## License
  
-Refer to the repo at https://github.com/Sydneychick2748/professional-README-generator for the license information
+Refer to the repo at: https://github.com/Sydneychick2748/professional-README-generator for the license information
  
 ## Contribute
  N/A
@@ -55,5 +55,5 @@ Refer to the repo at https://github.com/Sydneychick2748/professional-README-gene
 If you want to test out the project, you can go to my GitHub: https://github.com/Sydneychick2748/professional-README-generator
  
 ## Questions
-   If you have any questions, you can contact me at anabennett77@gmail.com 
+   If you have any questions, you can contact me at: anabennett77@gmail.com 
 
