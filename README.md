@@ -14,7 +14,7 @@ To make a high-quality, professional README file generated with the title of my 
 - [Usage](#usage)
 - [Tests](#tests)
 - [License](#license)
-- [How to Contribute](#Contribute)
+- [Contribute](#Contribute)
 - [Questions](#questions)
  
  
@@ -47,7 +47,7 @@ THEN I am taken to the corresponding section of the README
  
 Refer to the repo at https://github.com/Sydneychick2748/professional-README-generator for the license information
  
-## How to Contribute
+## Contribute
  N/A
  
 ## Tests
